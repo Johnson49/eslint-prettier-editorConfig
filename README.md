@@ -102,6 +102,7 @@ Agora, vamos ir no `eslintrc.json` e vamos adicionar as seguintes linhas:
 E por fim, crie o arquivo `.prettierrc.json` e adicione as seguistes regras.
 
 ```json
+{
     "arrowParens": "always",
     "bracketSpacing": true,
     "jsxSingleQuote": false,
@@ -114,6 +115,7 @@ E por fim, crie o arquivo `.prettierrc.json` e adicione as seguistes regras.
     "trailingComma": "es5",
     "useTabs": false,
     "endOfLine": "auto"
+}
 ```
 
 ### EditorConfig 🐭
