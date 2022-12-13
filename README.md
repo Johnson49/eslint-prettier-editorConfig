@@ -104,7 +104,6 @@ E por fim, crie o arquivo `.prettierrc.json` e adicione as seguistes regras.
 ```json
     "arrowParens": "always",
     "bracketSpacing": true,
-    "jsxBracketSameLine": false,
     "jsxSingleQuote": false,
     "printWidth": 100,
     "proseWrap": "always",
