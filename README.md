@@ -109,8 +109,8 @@ E por fim, crie o arquivo `.prettierrc.json` e adicione as seguistes regras.
     "printWidth": 100,
     "proseWrap": "always",
     "quoteProps": "as-needed",
-    "semi": true,
-    "singleQuote": false,
+    "semi": true, // se não quiser ponto e virgula, defina como falso
+    "singleQuote": false, // se não quiser aspas duplas, defina como true
     "tabWidth": 2,
     "trailingComma": "es5",
     "useTabs": false,
