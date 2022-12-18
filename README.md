@@ -118,6 +118,8 @@ E por fim, crie o arquivo `.prettierrc.json` e adicione as seguistes regras.
 }
 ```
 
+Além disso, crie o `.prettierignore` e adicione as mesmas dependências da `.eslintignore`.
+
 ### EditorConfig 🐭
 
 E por ultimo, mas não menos importante, o editorConfig.
