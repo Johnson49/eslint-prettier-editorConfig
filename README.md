@@ -90,10 +90,6 @@ Agora, vamos ir no `eslintrc.json` e vamos adicionar as seguintes linhas:
   "plugin:prettier/recommended"
 ],
 
-"plugins": [
-  "prettier"
-],
-
 "rules": {
   "react/react-in-jsx-scope": "off" // para projetos react, adicione esta linha.
 }
